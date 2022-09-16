@@ -1,0 +1,5 @@
+# Nmap 7.92 scan initiated Thu Sep 15 11:14:42 2022 as: nmap -p- --open -T5 -v -n -sS --oG allports 172.16.218.1
+# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 172.16.218.1 ()	Status: Up
+Host: 172.16.218.1 ()	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 23/open/tcp//telnet///, 80/open/tcp//http///, 2000/open/tcp//cisco-sccp///, 8291/open/tcp//unknown///, 8728/open/tcp/////, 8729/open/tcp/////
+# Nmap done at Thu Sep 15 11:14:59 2022 -- 1 IP address (1 host up) scanned in 17.33 seconds
