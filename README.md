@@ -7,11 +7,11 @@ sudo sh extraccion.sh  <br>
 Eso lo puede conseguir con el comando   <br>
 sudo chmod 755 extraccion.sh  <br>
 3.-Al ejecutarlo podra realiar la siguiente acciones <br>
-  Ingresar una direccion ip por ejemplo 192.168.100.36   <br>
-  Obtener informacion de los puertos de esa direccion ip <br>
-  Obtener las direcciones de las interfaces de red de tu sistema <br>
-  Obtener tu direccion ip de tu sistema  <br>
-  Obtener la direccion del router (gateway) de tu sistema por lo general es la 192.168.0.1 pero puede variar dependiendo  <br>
+  *Ingresar una direccion ip por ejemplo 192.168.100.36   <br>
+  *Obtener informacion de los puertos de esa direccion ip <br>
+  *Obtener las direcciones de las interfaces de red de tu sistema <br>
+  *Obtener tu direccion ip de tu sistema  <br>
+  *Obtener la direccion del router (gateway) de tu sistema por lo general es la 192.168.0.1 pero puede variar dependiendo  <br>
   de commpania  de proovedor de internet (ISP) hayas contratado o donde estes conctado nino rata mmmmmmm jaja XD  <br>
 #Forma de uso del chat tcp <br> 
-El chat contiene dos archivos los cuales son graficasqt.cpp <br>
+El chat contiene dos archivos los cuales son graficas_cliente_qt.cpp <br>
