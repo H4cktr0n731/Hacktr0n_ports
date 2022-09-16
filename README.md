@@ -1,6 +1,6 @@
 # Hacktr0n_ports
 Herramienta de automatizacion de puertos usando nmap con interfaz grafica Estamos!?
-#Forma del script extraccion.sh <br>
+<br> #Forma de ejecutar el script extraccion.sh <br>
 1.-Primeramente necesitara ejecutar la herramienta de extracion de la siguiente manera
 sudo sh extraccion.sh  <br>
 2.-En caso de no poder ejecutarse o realizarse alguna operacion simplemente cambie los permisos <br>
