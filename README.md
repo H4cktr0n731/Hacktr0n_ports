@@ -15,3 +15,17 @@ sudo chmod 755 extraccion.sh  <br>
   de commpania  de proovedor de internet (ISP) hayas contratado o donde estes conctado nino rata mmmmmmm jaja XD  <br>
 #Forma de uso del chat tcp <br> 
 El chat contiene dos archivos los cuales son graficas_cliente_qt.cpp <br>
+ *El primero llamado cliente_tcp.cpp
+ *El segundo llamado servidor_tcp.cpp
+Los cuales pueden pueden compilarse de la siguiente manera
+<br> Para cliente_tcp.cpp
+ <br> sudo g++ -DTEST --debug cliente_tcp.cpp -o client
+<br> Para servidor_tcp.cpp
+ <br> sudo g++ -DTEST --debug servidor_tcp.cpp -o server
+Para ejecutar el cliente 
+  ./client
+  
+Para ejecutar el servidor 
+  ./server
+  
+ Nota Importante : El cliente no funcionara a menos de que el servidor este corriendo antes en tu maquina 
